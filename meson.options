@@ -1,0 +1,4 @@
+option('main_module', type: 'boolean', value: false)
+option('side_module', type: 'boolean', value: false)
+option('simd', type: 'boolean', value: true)
+option('exports', type: 'string', value: 'exports.json')
